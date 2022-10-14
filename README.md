@@ -1,1 +1,1 @@
-# krono-app
+# KronoPy-app
